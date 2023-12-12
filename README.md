@@ -26,8 +26,7 @@ Here are some ideas to get you started:
   <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,python,java,c,c#,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,materialui,vscode,figma,linkedin,netlify" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,python,java,c,c sharp,vscode,linkedin,mysql" /><br>
 </div>
 </div>
 <h2 align="center">⚡️ Stats ⚡️</h2>
