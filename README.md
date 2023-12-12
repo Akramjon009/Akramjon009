@@ -23,6 +23,12 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a> 
 </div>
+  <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,python,java,c,c#,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,materialui,vscode,figma,linkedin,netlify" />
+</div>
 </div>
 <h2 align="center">⚡️ Stats ⚡️</h2>
 <br>
