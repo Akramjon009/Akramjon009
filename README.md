@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
-  <img src="https://github.com/omadlik/omadlik/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
-<hr/>
 
 <h2 align="center">⚡️ Stats ⚡️</h2>
 <br>
