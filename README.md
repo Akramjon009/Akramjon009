@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,linux,python,java,c" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,linkedin,mysql,csharp,eclipse,cs,visualstudio	" />
+    <img src="https://skillicons.dev/icons?i=vscode,linkedin,mysql,csharp,eclipse,cs,visualstudio	" /><br>
 </div>
 </div>
 </div>
