@@ -14,7 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div id="header" align="center">
+<div id="badges">
+  <a href=https://t.me/Akromjon_009>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.instagram.com/akramjon._.09/">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a> 
+</div>
+</div>
 <h2 align="center">⚡️ Stats ⚡️</h2>
 <br>
 <div align=center>
