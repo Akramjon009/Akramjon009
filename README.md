@@ -19,6 +19,14 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/akramjon._.09/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a> 
+  <a href="https://t.me/Coder_akramjon09">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akramjon-abduvahobov//">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+</div>
 </div>
   <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
