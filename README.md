@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <br/>
 <div>
-  <img src="https://github.com/Akramjon009/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Akramjon009/Akramjon009/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
 <br/><br/>
 <hr/>
