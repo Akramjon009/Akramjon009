@@ -52,7 +52,9 @@ Here are some ideas to get you started:
 </h3>
 
 <br/>
-
+<div>
+  <img src="https://github.com/Akramjon009/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
 <br/><br/>
 <hr/>
 <br/>
