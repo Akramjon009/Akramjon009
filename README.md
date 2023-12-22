@@ -58,8 +58,6 @@ Here are some ideas to get you started:
 </h3>
 
 <br/>
-<br/><br/>
-<hr/>
 <br/>
 
 
