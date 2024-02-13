@@ -2,12 +2,6 @@
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+my+name+is;+Akramjon+🙂">
 </h3>
 
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Profile+views">
-</h3>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Akramjon009/count.svg?"  />
-</div>
 
 ###
 <!--
@@ -48,6 +42,12 @@ Here are some ideas to get you started:
 </div>
 
 <h2 align="center">⚡️ Stats ⚡️</h2>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Profile+views">
+</h3>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Akramjon009/count.svg?"  />
+</div>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=Akramjon009&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
