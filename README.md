@@ -38,6 +38,11 @@ Here are some ideas to get you started:
 </div>
 </div>
 </div>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Akramjon009/count.svg?"  />
+</div>
+
+###
 <h2 align="center">⚡️ Stats ⚡️</h2>
 <br>
 <div align=center>
