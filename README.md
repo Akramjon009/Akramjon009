@@ -35,8 +35,8 @@ Here are some ideas to get you started:
   <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,python,java,c,postgresql,html,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,linkedin,mysql,eclipse,cs,visualstudio,mongodb,css,js" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,linkedin,eclipse,postgresql,visualstudio,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,c,cs,html,mongodb,css,js" /><br>
 </div>
 </div>
 </div>
