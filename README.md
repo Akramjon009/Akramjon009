@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,linux,python,java,c,postgresql,html,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,linkedin,mysql,eclipse,cs,visualstudio,mongodb,css" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,linkedin,mysql,eclipse,cs,visualstudio,mongodb,css,js" /><br>
 </div>
 </div>
 </div>
