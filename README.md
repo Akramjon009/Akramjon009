@@ -63,9 +63,7 @@ Here are some ideas to get you started:
 </h3>
 
 <br/>
-<br/>
 
-<img src="https://raw.githubusercontent.com/Akramjon009/Akramjon009/output/snake.svg" alt="Snake animation" />
 
 ###
 
